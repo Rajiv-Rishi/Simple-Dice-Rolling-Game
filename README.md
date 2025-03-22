@@ -36,6 +36,9 @@ Choose to play again or quit after each round
 
 The game includes visual dice representations and follows standard casino Craps rules for the first roll and subsequent point rolls.
 
+![image](https://github.com/user-attachments/assets/35ddced4-b016-4881-b9c5-e4a2b893906a)
+
+
 ![image](https://github.com/user-attachments/assets/428dd416-fac1-44f4-8b02-9d9893b21504)
 
 ![image](https://github.com/user-attachments/assets/1e40565c-cadd-4861-9057-92abaabd4d92)
